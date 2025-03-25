@@ -14,7 +14,7 @@ Predict the completion status (`Completed` or `Not Completed`) of clinical trial
 
 ## Project Highlights
 
-- 📊 **Data Preprocessing**:
+- **Data Preprocessing**:
   - Cleaned and standardized the “Study Status” column
   - Merged text fields and applied **TF-IDF** (`max_features=500`) for unstructured data
   - Applied **OneHotEncoding** for categorical variables and passed through numeric fields
